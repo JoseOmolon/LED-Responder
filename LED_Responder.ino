@@ -25,6 +25,8 @@ void setup(){
 void loop(){   // Repeatedly read pins for buttons
   Red=digitalRead(Key1);
   Yellow=digitalRead(Key2);
-    
-
+  Green=ditialRead(Key3);
+  if(Red==HIGH)RED_YES();
+  if(Yellow==HIGH)Yellow_YES();
+  if(Green==HIGH)Green_YES();  
 }
