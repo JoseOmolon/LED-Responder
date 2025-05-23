@@ -33,7 +33,7 @@ void loop(){   // Repeatedly read pins for buttons
 
 void Red_YES() // execute the code until the Red light is on; end cycle when reset button is pressed
 {
-  while(digitalRead(KeyReset)==0)
+  while(digitalRead(KeyRest)==0)
     {
       digitalWrite(Redled, HIGH);
       digitalWrite(Greenled, LOW);
@@ -42,3 +42,31 @@ void Red_YES() // execute the code until the Red light is on; end cycle when res
       clear_led();
 }
 
+void Yellow_YES() // execute the code until Yellow light is on; end cycle when reset button is pressed.
+{
+  while(digitalRead(KeyRest)==0)
+    {
+      digitalWrite(Redled, LOW);
+      digitalWrite(Greenled, LOW);
+      digitalWrite(Yellowled, HIGH);
+    }
+      clear_led();
+}
+
+void Green_YES() // execute the code until Green lighnt is on; end cycle when reset button is pressed.
+{
+  while(digitalRead(KeyRest)==0)
+    {
+      digitalWrite(Redled, LOW);
+      digitalWrite(Greenled, HIGH);
+      digitalWrite(Yellowled, LOW);
+    }
+      clear_led();
+}
+
+void clear_led() // all LED off
+{
+  digitalWrite(Redled, LOW);
+  digitalWrite(Greenled, LOW);
+  digitalWrite(Yellowled, LOW);
+}
