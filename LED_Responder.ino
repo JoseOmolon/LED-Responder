@@ -30,3 +30,15 @@ void loop(){   // Repeatedly read pins for buttons
   if(Yellow==HIGH)Yellow_YES();
   if(Green==HIGH)Green_YES();  
 }
+
+void Red_YES() // execute the code until the Red light is on; end cycle when reset button is pressed
+{
+  while(digitalRead(KeyReset)==0)
+    {
+      digitalWrite(Redled, HIGH);
+      digitalWrite(Greenled, LOW);
+      digitalWrite(Yellowled, LOW);
+    }
+      clear_led();
+}
+
