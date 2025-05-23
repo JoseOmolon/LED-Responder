@@ -21,3 +21,10 @@ void setup(){
   pinMode(Key3, INPUT);
   pinMode(KeyRest, INPUT);
 }
+
+void loop(){   // Repeatedly read pins for buttons
+  Red=digitalRead(Key1);
+  Yellow=digitalRead(Key2);
+    
+
+}
