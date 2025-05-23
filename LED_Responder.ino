@@ -11,3 +11,8 @@ int KeyRest=2;     // initialize pin for Reset button
 int Red;
 int Yellow;
 int Green;
+
+void setup(){
+  pinMode(Redled, OUTPUT);
+  pinMode((Yellowled, OUTPUT);
+  
