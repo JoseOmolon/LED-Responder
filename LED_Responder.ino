@@ -14,5 +14,10 @@ int Green;
 
 void setup(){
   pinMode(Redled, OUTPUT);
-  pinMode((Yellowled, OUTPUT);
-  
+  pinMode(Yellowled, OUTPUT);
+  pinMode(Greenled, OUTPUt);
+  pinMode(Key1, INPUT);
+  pinMode(Key2, INPUT);
+  pinMode(Key3, INPUT);
+  pinMode(KeyRest, INPUT);
+}
