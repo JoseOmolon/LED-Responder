@@ -11,3 +11,11 @@
 **Real-time systems** demand clarity. When one system is active, others wait. This isn’t multitasking — this is **prioritized response**. If you can’t control a few LEDs with discipline, forget controlling motors, sensors, or a whole robot. This teaches **single-state dominance**.
 
 ### ⚙️ What I Learned
+
+- `digitalRead()` to sense input like a sniper  
+- `while()` locks logic tight — no bouncing out  
+- `digitalWrite()` for precise output control  
+- Hardware reset button = kill switch mentality  
+- Structure your logic like a machine — not a maybe
+
+---
