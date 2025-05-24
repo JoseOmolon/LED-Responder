@@ -19,3 +19,14 @@
 - Structure your logic like a machine — not a maybe
 
 ---
+
+## 🔩 Parts I Used
+
+- Arduino Uno (or compatible)  
+- 3x LEDs (Red, Yellow, Green)  
+- 3x 220Ω Resistors  
+- 4x Pushbuttons (3 input, 1 reset)  
+- Jumper wires  
+- Breadboard  
+
+---
