@@ -116,6 +116,20 @@ void clear_led() {
 
 ```
 
+## 🧠 The Concept
+This project is about discipline under input pressure. One button. One response. Everything else waits. It's your first taste of state-driven embedded control.
+
+- No multitasking.
+- No “kind of works.”
+- You either control the system or the system controls you.
+
+## 🎬 Final Result
+
+- Press Red → Red LED locks ON
+- Press Yellow → Yellow LED locks ON
+- Press Green → Green LED locks ON
+- Press Reset → All OFF
+
 
 
 
