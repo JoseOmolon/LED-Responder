@@ -30,3 +30,13 @@
 - Breadboard  
 
 ---
+## 📈 Schematic
+
+![Schematic](schematic.png)
+
+---
+
+## 🛠️ Wiring
+
+![Wiring](Wiring.png)
+---
