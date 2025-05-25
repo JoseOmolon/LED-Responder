@@ -38,7 +38,7 @@
 
 ## 🛠️ Wiring
 
-![Wiring](Wiring.png)
+![Wiring](Wiring.gif)
 ---
 
 ## 👨‍💻 The Code
