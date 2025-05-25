@@ -132,6 +132,10 @@ This project is about discipline under input pressure. One button. One response.
 - Press Green → Green LED locks ON
 - Press Reset → All OFF
 
+![Result](Result.gif)
+
+## Full Video Here: youtu.be/RBC4ETXTI1M
+
 
 
 
