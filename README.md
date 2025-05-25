@@ -134,7 +134,7 @@ This project is about discipline under input pressure. One button. One response.
 
 ![Result](Result.gif)
 
-## Full Video Here: [Youtube](youtu.be/RBC4ETXTI1M)
+## Full Video Here: [youtu.be/RBC4ETXTI1M](youtu.be/RBC4ETXTI1M)
 
 
 
