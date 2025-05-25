@@ -115,6 +115,8 @@ void clear_led() {
 }
 
 ```
+![Coding](Coding.gif)
+---
 
 ## 🧠 The Concept
 This project is about discipline under input pressure. One button. One response. Everything else waits. It's your first taste of state-driven embedded control.
