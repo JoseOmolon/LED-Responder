@@ -32,7 +32,7 @@
 ---
 ## 📈 Schematic
 
-![Schematic](schematic.png)
+![Schematic](Sch)
 
 ---
 
