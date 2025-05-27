@@ -32,7 +32,7 @@
 ---
 ## 📈 Schematic
 
-![Schematic](Sch)
+![Schematic](Sche)
 
 ---
 
