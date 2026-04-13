@@ -55,7 +55,7 @@ int Key2 = 4;
 int Key3 = 3;
 int KeyRest = 2;
 
-// Variables to store button states 133
+// Variables to store button states 13
 int Red;
 int Yellow;
 int Green;
